@@ -1,0 +1,72 @@
+﻿@page "/addProduct"
+@rendermode InteractiveServer
+
+@using BlazorProductManager.Models
+@using BlazorProductManager.Services
+@inject ProductService productService;
+@inject NavigationManager NavigationManager;
+
+@* <h3>Add Product</h3> *@
+<EditForm Model="@Product" OnValidSubmit="Submit" FormName="prod">
+    <div class="row">
+        <div class="form-group col-md-4">
+            <InputText class="form-control" placeholder="Name" @bind-Value="Product.Name" />
+        </div>
+        <div class="form-group col-md-4">
+            <InputText class="form-control" placeholder="Code" @bind-Value="Product.Code" />
+        </div>
+        <div class="form-group col-md-4">
+            <InputText class="form-control" placeholder="Price" @bind-Value="Product.Price" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <button type="reset" @onclick="Reset" class="mt-2 mb-2 btn btn-warning">Reset</button>
+            <button type="submit" class="mt-2 mb-2 btn btn-primary">@(ProductId == 0 ? "Add" : "Update" )</button>
+        </div>
+    </div>
+
+</EditForm>
+@code {
+
+    public Product Product { get; set; } = new();
+    [Parameter]
+    public int ProductId { get; set; }
+    [Parameter]
+    public EventCallback<Product> OnProductAddCallBack { get; set; }
+    [Parameter]
+    public EventCallback<Product> OnProductUpdateCallBack { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        if (ProductId > 0)
+        {
+            Product = productService.GetProductById(ProductId);
+        }
+    }
+
+    private void Submit()
+    {
+        if (ProductId > 0)
+        {
+            Product.Id = ProductId;
+            productService.UpdateProduct(Product);
+            OnProductUpdateCallBack.InvokeAsync(Product);
+            Product = new Product();
+        }
+        else
+        {
+            var newId = productService.GetNewProductId();
+            Product.Id = newId;
+            productService.AddProduct(Product);
+            OnProductAddCallBack.InvokeAsync(Product);
+            Product = new Product();
+        }
+    }
+
+    private void Reset()
+    {
+        ProductId = 0;
+        Product = new Product();
+    }
+}

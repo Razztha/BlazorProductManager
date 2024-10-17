@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rasitha\\Web\\BlazorProductManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|c:\\rasitha\\web\\blazorproductmanager\\blazorproductmanager\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5286CAE-0931-4C0A-AF87-9E4DA0D1AC53}|BlazorProductManager\\BlazorProductManager.csproj|solutionrelative:blazorproductmanager\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\AddProduct.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\AddProduct.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\AddProduct.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\AddProduct.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T16:01:18.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "BlazorProductManager\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:45:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:51:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "BlazorProductManager\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:48:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Program.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Program.cs",
+              "RelativeToolTip": "BlazorProductManager\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:18:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Services\\ProductService.cs",
+              "RelativeToolTip": "BlazorProductManager\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:48:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\ProductList.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\ProductList.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\ProductList.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:00:35.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:51:00.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:51:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:51:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "BlazorProductManager\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:47:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Models\\Product.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Models\\Product.cs",
+              "RelativeToolTip": "BlazorProductManager\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:44:07.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorProductManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:33:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorProductManager\\appsettings.json",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\appsettings.json",
+              "RelativeToolTip": "BlazorProductManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T14:37:44.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:59:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorProductManager\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorProductManager\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:59:32.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
