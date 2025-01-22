@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css",
+      "Id": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorProductManager.bundle.scp.css"
     },
     {
-      "Id": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\app.css",
+      "Id": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\favicon.png",
+      "Id": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

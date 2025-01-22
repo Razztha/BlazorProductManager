@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yJ+r4I1AEYPKfNm/k+HhNftaeRHKbPgprArCqHLrn2g=",
+  "Hash": "zJpDxgRuWSqNqYPKgs40B6NSWIFnl605KeSZ8vopS3U=",
   "Source": "BlazorProductManager",
   "BasePath": "_content/BlazorProductManager",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorProductManager\\wwwroot",
       "Source": "BlazorProductManager",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
       "BasePath": "_content/BlazorProductManager",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorProductManager.styles.css",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorProductManager.styles.css",
       "SourceId": "BlazorProductManager",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "BlazorProductManager.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorProductManager.styles.css"
+      "OriginalItemSpec": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorProductManager.styles.css"
     },
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css",
       "SourceId": "BlazorProductManager",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "BlazorProductManager.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorProductManager.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\app.css",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\app.css",
       "SourceId": "BlazorProductManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorProductManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorProductManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\favicon.png",
+      "Identity": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\favicon.png",
       "SourceId": "BlazorProductManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
+      "ContentRoot": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\wwwroot\\",
       "BasePath": "_content/BlazorProductManager",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

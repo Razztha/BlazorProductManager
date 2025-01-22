@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorProductManager
 build_property.RootNamespace = BlazorProductManager
-build_property.ProjectDir = C:\Rasitha\Web\BlazorProductManager\BlazorProductManager\
+build_property.ProjectDir = C:\Rasitha\Azure\BlazorProductManager\BlazorProductManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Rasitha\Web\BlazorProductManager\BlazorProductManager
+build_property.MSBuildProjectDirectory = C:\Rasitha\Azure\BlazorProductManager\BlazorProductManager
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/App.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/AddProduct.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/AddProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZGRQcm9kdWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/Counter.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/Error.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/Home.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/ProductList.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Pages/Weather.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Routes.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/_Imports.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Layout/MainLayout.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-0pb8266t4u
 
-[C:/Rasitha/Web/BlazorProductManager/BlazorProductManager/Components/Layout/NavMenu.razor]
+[C:/Rasitha/Azure/BlazorProductManager/BlazorProductManager/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-bccbsavve8

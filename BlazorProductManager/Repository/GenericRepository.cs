@@ -37,7 +37,7 @@ namespace BlazorProductManager.Repository
 
         public T GetLastItem()
         {
-            return _dbSet.LastOrDefault();
+            return _dbSet.OrderBy(c => c).LastOrDefault();
         }
 
         public Task<T> GetByIdAsync(int id)

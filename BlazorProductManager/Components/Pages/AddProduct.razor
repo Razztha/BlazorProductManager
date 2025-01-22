@@ -56,8 +56,8 @@
         }
         else
         {
-            var newId = productService.GetNewProductId();
-            Product.Id = newId;
+            // var newId = productService.GetNewProductId();
+            // Product.Id = newId;
             productService.AddProduct(Product);
             OnProductAddCallBack.InvokeAsync(Product);
             Product = new Product();

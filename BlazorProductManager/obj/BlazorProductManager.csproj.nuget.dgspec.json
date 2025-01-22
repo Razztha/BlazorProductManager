@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj": {}
+    "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj": {}
   },
   "projects": {
-    "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj": {
+    "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj",
+        "projectUniqueName": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj",
         "projectName": "BlazorProductManager",
-        "projectPath": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj",
-        "packagesPath": "C:\\Users\\HP 830 G6\\.nuget\\packages\\",
-        "outputPath": "C:\\Rasitha\\Web\\BlazorProductManager\\BlazorProductManager\\obj\\",
+        "projectPath": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\BlazorProductManager.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Rasitha\\Azure\\BlazorProductManager\\BlazorProductManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP 830 G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
